@@ -12,7 +12,7 @@ Herramienta digital para la clasificación, registro y generación de fichas de 
 
 Esta herramienta funciona mejor en Google Sheets.
 
-👉 **[HAZ CLIC AQUÍ PARA OBTENER TU COPIA DE LA PLANTILLA](https://docs.google.com/spreadsheets/d/1VSzOQB0VmeykzgKsYZcLVEwTZUPWK58dDuKK-ctOI18/copy)**
+👉 **[HAZ CLIC AQUÍ PARA OBTENER TU COPIA DE LA PLANTILLA](https://docs.google.com/spreadsheets/d/1PaRurNjmnwIi9QczloivqHXbonN1beVRpUdmXIwkOPs/copy)** 
 
 1.  Al hacer clic, acepta "Hacer una copia".
 2.  Se guardará en tu Google Drive.
